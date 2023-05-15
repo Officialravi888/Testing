@@ -1,6 +1,7 @@
 package org.example;
 
 public class Calculation {
+
     public double addTwoNumbers(double a, double b) {
         return a + b;
     }
